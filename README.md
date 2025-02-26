@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm a passionate Cyber Security Enthusiast and versatile Web Developer, dedicated to crafting user-centric web experiences and building robust software solutions. Proficient in HTML, CSS (Bootstrap Framework), JavaScript, Java, C++, C# (.NET), Python and Dart. I excel in Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database Management Systems (DBMS) and LInux.<br>I'm Looking for Open Source Cyber Security Project to Contribute. expertise in Git & GitHub. thrive on embracing new technologies and tackling complex challenges. I am committed to continuous learning, actively engaging in online courses, workshops, and staying abreast of industry trends. I am eager to expand my knowledge and skills, and contribute positively to the ever-evolving tech landscape.<br>
+I am a passionate MERN Stack Developer and Cybersecurity Enthusiast, dedicated to building secure, scalable, and user-friendly web applications. With expertise in MongoDB, Express.js, React.js, Node.js, and strong foundations in HTML, CSS (Bootstrap), JavaScript, Java, C, C++, Python, and Linux, I thrive in creating full-stack solutions.
+
+ - MERN Stack Development: Skilled in front-end and back-end development, crafting responsive, high-performance applications.
+ - Cybersecurity: Actively pursuing security certifications and staying updated on offensive security, penetration testing, and secure coding practices.
+
+I am eager to collaborate on innovative projects, contribute to security-focused development, and connect with professionals who share a passion for technology, cybersecurity, and full-stack development.
+
+<br>
 
 
 ## 🌐 Socials:
