@@ -75,7 +75,7 @@ I am eager to collaborate on innovative projects, contribute to security-focused
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naflan-mohamed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://naflanmohamed.wixsite.com/naflan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://naflanmohamed.github.io/naflan-portfolio/)
 
 ---
 
