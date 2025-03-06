@@ -47,6 +47,8 @@ I am eager to collaborate on innovative projects, contribute to security-focused
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=Wireshark&logoColor=white)
+
 
 ### **Expertise In**
 ✅ Data Structures & Algorithms  
