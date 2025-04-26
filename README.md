@@ -96,9 +96,18 @@ I am eager to collaborate on innovative projects, contribute to security-focused
 ---
 
 ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naflanmohamed&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naflanmohamed&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naflanmohamed&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naflanmohamed&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+-->
 
 ---
 
