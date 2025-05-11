@@ -1,5 +1,5 @@
 # Hi there, I'm **Naflan Mohamed** 👋
-   
+    
   
 ### 🚀 **MERN Stack Developer | Cybersecurity Enthusiast**   
 passionate MERN Stack Developer and Cybersecurity Enthusiast, dedicated to building secure, scalable, and user-friendly web applications. With expertise in MongoDB, Express.js, React.js, Node.js, and strong foundations in HTML, CSS (Bootstrap & Tailwind CSS), JavaScript, Java, C/C++, Python, and Linux, I thrive in creating full-stack solutions.
