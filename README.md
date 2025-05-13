@@ -114,12 +114,13 @@ I am eager to collaborate on innovative projects, contribute to security-focused
 
 ## 🚀 Projects
 - 🔗 [SkyCast Weather App](https://github.com/naflanmohamed/SkyCast-Weather-App) - weather forcasting application. [Live](https://naflanmohamed.github.io/SkyCast-Weather-App/)
-- 🔗 [To-do Task App](https://github.com/naflanmohamed/To-do-Task-App) - To-do Task App.
-- 🔗 [Taste Trail Delivery](https://github.com/naflanmohamed/Taste-Trail-Delivery) - Food Delivery Website.
-- 🔗 [Recruiter Hunt](https://github.com/naflanmohamed/Recruiter-Hunt) - Job Portal Website.
-- 🔗 [Library Management System](https://github.com/naflanmohamed/Library-Management-System) - Library Management System.
-- 🔗 [Business Information Appliwhere](https://github.com/naflanmohamed/Business-Information-Appliwhere) - Business Information Appliwhere.
-- 🔗 [Event Mingle](https://github.com/naflanmohamed/EventMingle) - Event Management Website.
+- 🔗 [Drum Kit](https://github.com/naflanmohamed/Drum-Kit) - Drum Kit. [Live]([https://naflanmohamed.github.io/To-do-Task-App/](https://naflanmohamed.github.io/Drum-Kit/))
+- 🔗 [To-do Task App](https://github.com/naflanmohamed/To-do-Task-App) - To-do Task App. [Live](https://naflanmohamed.github.io/To-do-Task-App/)
+- 🔗 [Taste Trail Delivery](https://github.com/naflanmohamed/Taste-Trail-Delivery) - Food Delivery Website. [Live](https://naflanmohamed.github.io/Taste-Trail-Delivery/index.html)
+- 🔗 [Recruiter Hunt](https://github.com/naflanmohamed/Recruiter-Hunt) - Job Portal Website. [Live](https://naflanmohamed.github.io/Recruiter-Hunt/)
+- 🔗 [Library Management System](https://github.com/naflanmohamed/Library-Management-System) - Library Management System. [Live](https://naflanmohamed.github.io/Library-Management-System)
+- 🔗 [Business Information Appliwhere](https://github.com/naflanmohamed/Business-Information-Appliwhere) - Business Information Appliwhere. [Live](https://naflanmohamed.github.io/Business-Information-Appliwhere/)
+- 🔗 [Event Mingle](https://github.com/naflanmohamed/EventMingle) - Event Management Website. [Live](https://naflanmohamed.github.io/EventMingle/)
 
   
 ---
