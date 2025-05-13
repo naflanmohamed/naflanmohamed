@@ -113,7 +113,7 @@ I am eager to collaborate on innovative projects, contribute to security-focused
 ---
 
 ## 🚀 Projects
-- 🔗 [SkyCast Weather App](https://github.com/naflanmohamed/SkyCast-Weather-App) - weather forcasting application.
+- 🔗 [SkyCast Weather App](https://github.com/naflanmohamed/SkyCast-Weather-App) - weather forcasting application. [Live](https://naflanmohamed.github.io/SkyCast-Weather-App/)
 - 🔗 [To-do Task App](https://github.com/naflanmohamed/To-do-Task-App) - To-do Task App.
 - 🔗 [Taste Trail Delivery](https://github.com/naflanmohamed/Taste-Trail-Delivery) - Food Delivery Website.
 - 🔗 [Recruiter Hunt](https://github.com/naflanmohamed/Recruiter-Hunt) - Job Portal Website.
