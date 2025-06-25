@@ -1,13 +1,16 @@
 # Hi there, I'm **Naflan Mohamed** 👋
        
   
-### 🚀 **MERN Stack Developer | Cybersecurity Enthusiast**   
-passionate MERN Stack Developer and Cybersecurity Enthusiast, dedicated to building secure, scalable, and user-friendly web applications. With expertise in MongoDB, Express.js, React.js, Node.js, and strong foundations in HTML, CSS (Bootstrap & Tailwind CSS), JavaScript, Java, C/C++, Python, and Linux, I thrive in creating full-stack solutions.
- 
- - MERN Stack Development: Skilled in front-end and back-end development, crafting responsive, high-performance applications.
- - Cybersecurity: Actively pursuing security certifications and staying updated on offensive security, penetration testing, and secure coding practices.
+### 🚀 **MERN Stack & Flutter Developer | Explorer of Tech, UX, and AI**   
+Hey! I’m Naflan Mohamed, a Computer Science student and self-taught web developer who’s passionate about turning ideas into real, working products.
 
-I am eager to collaborate on innovative projects, contribute to security-focused development, and connect with professionals who share a passion for technology, cybersecurity, and full-stack development.
+I mainly work with the MERN stack (MongoDB, Express, React, Node.js), and I love building clean, functional apps that make life easier. Whether it’s a personal expense tracker or a full-blown LMS system, I enjoy the entire process from sketching out the idea to writing the code and seeing it come to life.
+
+I believe in learning by doing, so I’m always working on projects, trying out new tools, and improving my skills. I’ve also started getting into UI/UX and making sure my apps not only work well but look and feel great too.
+
+Outside of coding, I’m into tech trends, building my portfolio, and collaborating with like-minded people. Always open to feedback, new opportunities, or just a good tech chat!
+
+Feel free to check out my projects, connect with me on LinkedIn or drop me an email if you want to chat about tech, projects, or anything else!
 
 [Visit Portfolio](https://naflanmohamed.github.io/naflan-portfolio/)
 
