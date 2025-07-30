@@ -1,6 +1,6 @@
 # Hi there, I'm **Naflan Mohamed** 👋
        
-   
+    
 ### 🚀 **MERN Stack & Flutter Developer | Explorer of Tech, UX, and AI**   
 Hey! I’m Naflan Mohamed, a Computer Science student and self-taught web developer who’s passionate about turning ideas into real, working products.
 
