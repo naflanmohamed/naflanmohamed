@@ -115,7 +115,7 @@ Feel free to check out my projects, connect with me on LinkedIn or drop me an em
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects 
 - 🔗 [SkyCast Weather App](https://github.com/naflanmohamed/SkyCast-Weather-App) - weather forcasting application. [Live](https://naflanmohamed.github.io/SkyCast-Weather-App/)
 - 🔗 [Drum Kit](https://github.com/naflanmohamed/Drum-Kit) - Drum Kit. [Live](https://naflanmohamed.github.io/Drum-Kit/)
 - 🔗 [To-do Task App](https://github.com/naflanmohamed/To-do-Task-App) - To-do Task App. [Live](https://naflanmohamed.github.io/To-do-Task-App/)
