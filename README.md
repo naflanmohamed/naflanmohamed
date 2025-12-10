@@ -12,7 +12,7 @@ Outside of coding, I’m into tech trends, building my portfolio, and collaborat
 
 Feel free to check out my projects, connect with me on LinkedIn or drop me an email if you want to chat about tech, projects, or anything else!
 
-[Visit Portfolio](https://naflanmohamed.github.io/naflan-portfolio/)
+[Visit Portfolio](https://naflanmohamed.vercel.app/)
 
 ---
 
@@ -130,7 +130,7 @@ Feel free to check out my projects, connect with me on LinkedIn or drop me an em
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naflan-mohamed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://naflanmohamed.github.io/naflan-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://naflanmohamed.vercel.app/)
 
 ---
 
