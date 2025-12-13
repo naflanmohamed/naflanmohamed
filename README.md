@@ -106,25 +106,6 @@ Feel free to check out my projects, connect with me on LinkedIn or drop me an em
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naflanmohamed&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naflanmohamed&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
--->
-
----
-
-## 🚀 Projects 
-- 🔗 [SkyCast Weather App](https://github.com/naflanmohamed/SkyCast-Weather-App) - weather forcasting application. [Live](https://naflanmohamed.github.io/SkyCast-Weather-App/)
-- 🔗 [Drum Kit](https://github.com/naflanmohamed/Drum-Kit) - Drum Kit. [Live](https://naflanmohamed.github.io/Drum-Kit/)
-- 🔗 [To-do Task App](https://github.com/naflanmohamed/To-do-Task-App) - To-do Task App. [Live](https://naflanmohamed.github.io/To-do-Task-App/)
-- 🔗 [Taste Trail Delivery](https://github.com/naflanmohamed/Taste-Trail-Delivery) - Food Delivery Website. [Live](https://naflanmohamed.github.io/Taste-Trail-Delivery/index.html)
-- 🔗 [Recruiter Hunt](https://github.com/naflanmohamed/Recruiter-Hunt) - Job Portal Website. [Live](https://naflanmohamed.github.io/Recruiter-Hunt/)
-- 🔗 [Library Management System](https://github.com/naflanmohamed/Library-Management-System) - Library Management System. [Live](https://naflanmohamed.github.io/Library-Management-System)
-- 🔗 [Business Information Appliwhere](https://github.com/naflanmohamed/Business-Information-Appliwhere) - Business Information Appliwhere. [Live](https://naflanmohamed.github.io/Business-Information-Appliwhere/)
-- 🔗 [Event Mingle](https://github.com/naflanmohamed/EventMingle) - Event Management Website. [Live](https://naflanmohamed.github.io/EventMingle/)
-
   
 ---
 
