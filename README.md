@@ -1,14 +1,14 @@
 # Hi there, I'm **Naflan Mohamed** 👋
         
     
-### 🚀 **MERN Stack & Flutter Developer | Explorer of Tech, UX, and AI**   
-Hey! I’m Naflan Mohamed, a Computer Science student and self-taught web developer who’s passionate about turning ideas into real, working products.
+### 🚀 **Full-Stack Developer (MERN) | React, Next.js, TypeScript | Node.js & MongoDB**   
+Hey! I’m Naflan Mohamed, a Computer Science undergraduate and a Junior Full-Stack Developer focused on building practical, user-centric web applications.
 
-I mainly work with the MERN stack (MongoDB, Express, React, Node.js), and I love building clean, functional apps that make life easier. Whether it’s a personal expense tracker or a full-blown LMS system, I enjoy the entire process from sketching out the idea to writing the code and seeing it come to life.
+I work primarily with React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, and MongoDB, and I enjoy turning ideas into clean, functional products. I’m especially interested in writing clean code, integrating APIs, and improving applications through debugging and iteration.
 
-I believe in learning by doing, so I’m always working on projects, trying out new tools, and improving my skills. I’ve also started getting into UI/UX and making sure my apps not only work well but look and feel great too.
+I’m currently strengthening my full-stack foundation by building real projects end-to-end, including authentication, database design, and deployment. I also have hands-on experience integrating AI APIs into applications to enhance functionality and user experience.
 
-Outside of coding, I’m into tech trends, building my portfolio, and collaborating with like-minded people. Always open to feedback, new opportunities, or just a good tech chat!
+I’m actively seeking Junior / Trainee Software Engineer or Full-Stack Developer opportunities where I can contribute, learn from experienced teams, and grow into a reliable software engineer.
 
 Feel free to check out my projects, connect with me on LinkedIn or drop me an email if you want to chat about tech, projects, or anything else!
 
