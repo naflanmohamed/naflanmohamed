@@ -1,7 +1,7 @@
 # Hi there, I'm **Naflan Mohamed** 👋
         
     
-### 🚀 **Full-Stack Developer (MERN) | React, Next.js, TypeScript | Node.js & MongoDB**   
+### **Full-Stack Developer (MERN) | React, Next.js, TypeScript | Node.js & MongoDB**   
 Hey! I’m Naflan Mohamed, a Computer Science undergraduate and a Junior Full-Stack Developer focused on building practical, user-centric web applications.
 
 I work primarily with React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, and MongoDB, and I enjoy turning ideas into clean, functional products. I’m especially interested in writing clean code, integrating APIs, and improving applications through debugging and iteration.
