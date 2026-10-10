@@ -6,7 +6,7 @@
 
 I build LLM applications end to end: document ingestion, chunking, embeddings, retrieval, generation, and the API and UI around them. I measure retrieval quality instead of shipping demos.
 
-**Open to:** entry-level AI Engineer, ML Engineer and Python Backend roles (Sri Lanka, Middle East, remote, or relocation).
+**Open to:** AI Engineer, ML Engineer and Python Backend roles.
 
 [Portfolio](https://naflanportfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/naflan-mohamed) · [Email](mailto:mnnaflanmohamed@gmail.com)
 
