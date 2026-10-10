@@ -45,7 +45,8 @@ I build LLM applications end to end: document ingestion, chunking, embeddings, r
 
 ## Education and certifications
 
-- BS (Hons) Computer Science, Government College University Lahore (Dec 2022 – Sep 2026), Allama Iqbal Scholarship recipient
+- BS (Hons) Computer Science, Government College University Lahore (Dec 2022 - Sep 2026), Allama Iqbal Scholarship recipient
+
 - Machine Learning Specialization (IBM) · ChatGPT Prompt Engineering for Developers (DeepLearning.AI) · Meta Full Stack Developer (Dec 2025)
 
 ---
