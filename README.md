@@ -12,13 +12,15 @@ I build LLM applications end to end: document ingestion, chunking, embeddings, r
 
 ---
 
-## Featured projects
+## Featured Projects
 
 | Project | What it is | Stack | Proof |
 |---|---|---|---|
-| [**ChatAgent**](https://github.com/naflanmohamed/ChatAgent) | Agentic workspace: stateful LangGraph agent with web search, RAG retrieval, URL analysis, email and calendar tools, plus MCP | LangGraph, Gemini, FastAPI, React, PostgreSQL/Supabase, Redis | [Live demo](https://chattingagent.vercel.app/) |
-| [**DocChat**](https://github.com/naflanmohamed/DocChat) | Chat with PDF/DOCX/TXT files with source-aware answers and streaming | Next.js, FastAPI, LangChain, ChromaDB, Gemini | [Live demo](https://docchats.vercel.app/) |
-| **Yaloo** (final-year project) | AI cultural-tourism platform: recommendations across three domains and an intent-routed RAG assistant | Flutter, Django REST, PostgreSQL/Supabase, pgvector (HNSW), Sentence Transformers, Gemini | Tested with 150+ users |
+| [**ChatAgent**](https://github.com/naflanmohamed/ChatAgent) | Agentic workspace with web search, RAG retrieval, URL analysis, email and calendar tools, and MCP integration | LangGraph, Gemini, FastAPI, React, PostgreSQL/Supabase, Redis | [Live demo](https://chattingagent.vercel.app/) |
+| [**ResolveAI**](https://github.com/naflanmohamed/resolveai) | AI-powered support ticket automation platform combining ML-based ticket classification, RAG-based knowledge retrieval, and AI-generated response drafts with human review | Python, FastAPI, scikit-learn, LangGraph, RAG, React, TypeScript, SQLAlchemy, PostgreSQL | [Live demo](https://resolveai-web.onrender.com/) |
+| [**DocChat**](https://github.com/naflanmohamed/DocChat) | Chat with PDF, DOCX, and TXT files using source-aware answers and streaming responses | Next.js, FastAPI, LangChain, ChromaDB, Gemini | [Live demo](https://docchats.vercel.app/) |
+| **Yaloo** (final-year project) | AI cultural-tourism platform with recommendations across three domains and an intent-routed RAG assistant | Flutter, Django REST, PostgreSQL/Supabase, pgvector (HNSW), Sentence Transformers, Gemini | Tested with 150+ users |
+
 ---
 
 ## Experience
