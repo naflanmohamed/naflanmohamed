@@ -53,5 +53,3 @@ I build LLM applications end to end: document ingestion, chunking, embeddings, r
 
 ---
 
-## Writing
-<!-- Add 1-2 links once published, e.g. "How I evaluated retrieval in DocChat" -->
